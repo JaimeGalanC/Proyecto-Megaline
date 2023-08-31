@@ -7,4 +7,6 @@ Para ello realizaremos el análisis de las tarifas de prepago, basados en los co
 2. Realizamos un preprocesamiento de los datos, posteriormente un análisis de datos exploratorio y pruebas de hipótesis sobre el comportamiento del usuario, para cada una de las tarifas de prepago
 3. Finalmente, estudiamos el gasto promedio de los usuarios de las tarifas Ultimate y Surf. Además, analizamos si el gasto promedio de los usuarios en el área de estados Nueva York-Nueva Jersey es diferente al de los usuarios de otras regiones.
 
-Este proyecto fue realizado usando [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() y [![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=101010)](). Se hizó la carga de los datos usando archivos ".csv".
+Se hizó la carga de los datos usando archivos ".csv". Este proyecto fue realizado usando:
+- [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+- [![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=101010)]()
